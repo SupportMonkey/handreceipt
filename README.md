@@ -1,2 +1,2 @@
 # handreceipt
-Standard Issue Hand Receipt (Model Driven)
+Standard Issue Hand Receipt (CDS Data Model)
